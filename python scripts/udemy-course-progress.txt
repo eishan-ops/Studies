@@ -1,0 +1,39 @@
+Day 1: 
+		print function 
+		new line \n and string concatenation and substrings
+		input function
+		variable and naming conventions
+		len function 
+		Band name generator
+		
+Day 2:
+		pemdasLR
+		operators
+		data types - type - type casting
+		floor division , expo, etc.
+		round function, F -strings
+		Tip calculator
+		
+		
+Day 3:
+		if else
+		elif (to select ONE outcome out of many)
+		nested if else
+		.lower()  count("")
+		Logical operators: and or > < >= <= != 
+		
+Day 4:
+		Random module
+		python Lists
+		offset, appending items to list
+		nested lists
+		.split(" ") function #this is used to split strings
+		len() function  #this time applied to lists
+		
+		
+		
+		
+		
+		
+		
+		
